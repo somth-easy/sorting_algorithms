@@ -1,1 +1,1 @@
-Soting Algorithms
+Sorting Algorithm
